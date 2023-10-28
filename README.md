@@ -7,7 +7,7 @@ I did run the test and created logo.svg file everything work fine.
 I did create a video to show all of the steps I did as well.
 
 ### The following image shows the web application's appearance and functionality:
-![preview image](https://github.com/samiyeahsan/SVG-LogoMaker/blob/master/Asset/circle.svg.png)
+![preview image](https://github.com/samiyeahsan/SVG-LogoMaker/blob/master/Assets/circle.svg.png)
 
 [Deployed Link](https://samiyeahsan.github.io/SVG-LogoMaker/)
 
